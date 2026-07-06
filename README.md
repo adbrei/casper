@@ -1,7 +1,11 @@
 # CASPER
-Code base for paper: "CAspER in the Machine: Insights into Character Variety in LLM-Generated Stories"
+Code base for paper: "CASPER in the Machine: Insights into Character Variety in LLM-Generated Stories"
 
-Accepted to the Proceedings of ACL, 2026 (main)
+[[Paper]](https://aclanthology.org/2026.acl-long.675.pdf) 
+[[Poster]](https://adbrei.com/wp-content/uploads/2026/06/ACL-2026_main-1536-poster.pdf)
+[[Slides]](https://adbrei.com/wp-content/uploads/2026/06/ACL-2026_main-1536-presentation.pdf)
+
+Accepted to the Proceedings of ACL, 2026 (main, oral presentation)
 
 *Material and code base will be committed soon.*
 
@@ -18,7 +22,7 @@ Do LLMs generate stories with a variety of characters?* To this end, we create a
 
 ## CASPER Corpus
 
-Please send a brief message to abrei [at] cs [dot] unc [dot] edu for (1) 100 handlabeled short stories (mixed human/LLM-generated) used for testing our LLM-judge, and/or (2) 200 human-written and 4400 LLM-generated short stories used for our analysis.
+Please complete this [form](https://forms.gle/ozhVgaaTX6k6eakh8) to request the CASPER Corpus, consisting of 100 human-expert labeled short stories used to test our LLM-judge and 4600 LLM-judge labeled short stories used for our analysis.
 
 ## CASPER Framework
 <img width="3410" height="1690" alt="casper (2)" src="https://github.com/user-attachments/assets/b0c4c781-36cb-4b08-a5ed-d9f7387eed9e" />
@@ -37,8 +41,8 @@ Please send a brief message to abrei [at] cs [dot] unc [dot] edu for (1) 100 han
 
 Left: LLM-generated characters; Right: human-written characters
 
-<img width="500" alt="RQ5" src="https://github.com/user-attachments/assets/61fff4ad-d5fd-4d05-924e-b185ebac63ec" />
-<img width="500" alt="RQ5_human (1)" src="https://github.com/user-attachments/assets/7d709be1-0a41-4b0a-ae7f-defd333274ac" />
+<img width="400" alt="RQ5" src="https://github.com/user-attachments/assets/61fff4ad-d5fd-4d05-924e-b185ebac63ec" />
+<img width="400" alt="RQ5_human (1)" src="https://github.com/user-attachments/assets/7d709be1-0a41-4b0a-ae7f-defd333274ac" />
 
 
 ## Key Takeaways
