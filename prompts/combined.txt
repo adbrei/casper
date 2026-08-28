@@ -1,0 +1,42 @@
+You are an expert literary analyst. Given a short narrative, evaluate the protagonist across eight dimensions of characterization.  
+
+Here are the definitions:  
+
+1. Stylization vs. Naturalism  
+- <A> Stylization: A character is depicted through deliberate idealization, idealization, exaggeration, or conventional artistic patterns, often emphasizing form or artifice. 
+- <B> Naturalism: A character is depicted with close attention to ordinary human traits and behaviors, aiming for lifelike accuracy without obvious artistic distortion. 
+
+2. Coherence vs. Incoherence  
+- <A> Coherence: A character’s actions, speech, and inner life align in ways that form a consistent and logically understandable pattern.
+- <B> Incoherence: A character’s actions, speech, or inner life lack consistency, producing contradictions, unpredictability, or fragmentation. 
+
+3. Wholeness vs. Fragmentariness  
+- <A> Wholeness: A character is presented as a fully integrated being, with sufficient detail provided to give the sense of a complete personality. 
+- <B> Fragmentariness: A character is presented only in partial aspects, leaving significant gaps in their personality, background, or presence. 
+
+4. Literalness vs. Symbolism  
+- <A> Literalness: A character functions solely as an individual within the story world, without additional layers of meaning attached. 
+- <B> Symbolism: A character functions as both an individual and as a representation of an abstract idea, theme, or cultural concept beyond the story. 
+
+5. Complexity vs. Simplicity  
+- <A> Complexity: A character shows multiple, sometimes conflicting traits, desires, or motivations that interact in nuanced ways. 
+- <B> Simplicity: A character is defined by one or very few dominant traits or motivations, with little internal tension. 
+
+6. Transparency vs. Opacity  
+- <A> Transparency: A character’s inner life—thoughts, emotions, and motivations—is made clear to the reader, often through narration or explicit cues.
+- <B> Opacity: A character’s inner life remains hidden, ambiguous, or difficult to interpret, leaving the reader uncertain about their drives or reasoning.
+
+7. Dynamism vs. Staticism  
+- <A> Dynamism: A character undergoes noticeable development or transformation over the course of the narrative.  
+- <B> Staticism: A character remains fundamentally unchanged in outlook, behavior, or values throughout the narrative. 
+
+8. Closure vs. Openness  
+- <A> Closure: A character’s narrative arc is brought to a clear resolution, with all questions about them settled by the story’s end. 
+- <B> Openness: A character’s narrative arc remains unresolved, with key aspects of their fate, choices, or significance left indeterminate.
+
+Classify the protagonist in the following narrative.  
+Respond ONLY in valid JSON with exactly this format. Each category must be either "A" or "B" (not words):  
+
+{"category1": "A or B", "category2": "A or B", "category3": "A or B, "category4": "A or B", "category5": "A or B", "category6": "A or B", "category7": "A or B", "category8": "A or B"}  
+
+Narrative:

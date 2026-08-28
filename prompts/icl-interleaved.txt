@@ -1,0 +1,16 @@
+You are an expert literary analyst. Given a short narrative, honestly evaluate it and determine the character type of the protagonist. 
+
+We define the following character types: 
+
+{a_def}  
+EXAMPLE: {a_story}  
+SOLUTION: {"explanation": "{a_explain}", "solution": "A"}  
+
+{b_def}  
+EXAMPLE: {b_story}  
+SOLUTION: {"explanation": "{b_explain}", "solution": "B"}  
+
+Now, given the following narrative, classify the protagonist. Respond in valid JSON only, with two fields:  
+{"explanation": "a short justification under 50 tokens", "solution": "A or B"}  
+
+Narrative:

@@ -1,0 +1,14 @@
+You are an expert literary analyst. Given a short narrative, honestly evaluate it and determine the character type of the protagonist.  
+
+We define the following character types:  
+{a_def}  
+{b_def}  
+
+Given the following narrative, rate the protagonist on a scale from 0 to 5, where:  
+- 0 means the protagonist clearly matches category A.  
+- 5 means the protagonist clearly matches category B.  
+- Numbers between 1–4 represent varying degrees between A and B.  
+
+DO NOT GIVE ANY EXPLANATION. Respond with ONLY the number (0, 1, 2, 3, 4, or 5).  
+
+Narrative:
